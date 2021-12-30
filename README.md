@@ -6,6 +6,7 @@ This Artificial Intelligence system focuses on identifying and categorizing huma
 ```
 
 ## Steps To Run
+##### 1. 
 
 ## Tools Used
 ##### 1. 
