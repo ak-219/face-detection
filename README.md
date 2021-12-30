@@ -5,7 +5,7 @@
 This Artificial Intelligence system focuses on identifying and categorizing human faces.
 ```
 
-## Steps to start
+## Steps To Run
 
 ## Tools Used
 ##### 1. 
